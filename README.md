@@ -15,17 +15,11 @@ Apaixonado por tecnologia e resolução de problemas. Atualmente curso Análise 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### 📊 Estatísticas de Codificação
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight" />
-</p>
-
 ### 📬 Vamos nos conectar?
 - [🌐 Portfólio Pessoal](Link_Do_Canvas_Ou_Site)
-- [🐙 GitHub](https://github.com/SEU_USUARIO_AQUI)
-- [📸 Instagram](https://instagram.com/SEU_INSTA_AQUI)
-- [📧 Contato Profissional](mailto:seuemail@exemplo.com)
+- [🐙 GitHub](https://github.com/wellqs)
+- [📸 Instagram](https://instagram.com/wellqs)
+- [📧 Contato Profissional](wellqs@gmail.com)
 
 ---
 *Foco em eficiência, escalabilidade e resultados.*
