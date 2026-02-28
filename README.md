@@ -1,14 +1,3 @@
-Uelinton Quintão | Dev FullStack
-💻 Transformando ideias em sistemas eficientes.
-📊 Especialista em Automação e Dados.
-🎓 Estudante de ADS.
-🚀 Acesse meus links abaixo:
-[Seu Link Aqui]
-
-🔗 Modelo para GitHub Profile / Link in Bio (README.md)
-
-Este modelo é ideal para o repositório especial do seu perfil no GitHub.
-
 # 👨‍💻 Uelinton Quintão
 
 **Desenvolvedor FullStack | Especialista em Automação & Dados**
@@ -19,6 +8,13 @@ Este modelo é ideal para o repositório especial do seu perfil no GitHub.
 
 ### 🚀 Sobre Mim
 Apaixonado por tecnologia e resolução de problemas. Atualmente curso Análise e Desenvolvimento de Sistemas, com foco em criar soluções que otimizam processos reais através de automação inteligente e desenvolvimento web moderno.
+
+Uelinton Quintão | Dev FullStack
+💻 Transformando ideias em sistemas eficientes.
+📊 Especialista em Automação e Dados.
+🎓 Estudante de ADS.
+🚀 Acesse meus links abaixo:
+[Seu Link Aqui]
 
 ### 🛠️ Minha Stack Principal
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -40,12 +36,3 @@ Apaixonado por tecnologia e resolução de problemas. Atualmente curso Análise 
 
 ---
 *Foco em eficiência, escalabilidade e resultados.*
-
-
-🎨 Dicas de Organização (Instagram)
-
-Destaques: Crie capas para os seus destaques com os nomes: Projetos, Estudos, Tech Stack e Setup.
-
-Link Único: Como você já tem o código do seu portfólio em React no Canvas, você pode fazer o deploy dele (no Vercel ou Netlify) e usar esse link único na bio.
-
-Username: Tente manter o mesmo padrão em todas as redes (ex: @uelinton.dev ou @uelinton_quintao).
