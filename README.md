@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 Sobre Mim
-Apaixonado por tecnologia e resolução de problemas. Atualmente curso Análise e Desenvolvimento de Sistemas, com foco em criar soluções que otimizam processos reais através de automação inteligente e desenvolvimento web moderno.
+Apaixonado por tecnologia e resolução de problemas. Atualmente curso Análise e Desenvolvimento de Sistemas, com foco em criar soluções que otimizam processos reais através de análise de dados, automação inteligente e desenvolvimento web moderno.
 
 ### 🛠️ Minha Stack Principal
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
