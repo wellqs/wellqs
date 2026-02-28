@@ -1,23 +1,3 @@
-📱 Personalização de Perfil - Uelinton Quintão
-
-Este documento contém modelos prontos para você copiar e colar no seu Instagram e no seu perfil do GitHub (README/Link in Bio).
-
-💡 Opções de Bio para o Instagram
-
-Dica: O Instagram tem um limite de 150 caracteres.
-
-Opção 1: Profissional & Direta
-
-👨‍💻 Uelinton Quintão
-🚀 Desenvolvedor FullStack | 34 anos
-📍 Rondônia, Brasil
-🤖 Automação, Dados e Sistemas
-🛠️ Python • JavaScript • SQL
-👇 Confira meu portfólio e projetos:
-[Seu Link Aqui]
-
-Opção 2: Focada em Soluções
-
 Uelinton Quintão | Dev FullStack
 💻 Transformando ideias em sistemas eficientes.
 📊 Especialista em Automação e Dados.
