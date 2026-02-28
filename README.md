@@ -9,13 +9,6 @@
 ### 🚀 Sobre Mim
 Apaixonado por tecnologia e resolução de problemas. Atualmente curso Análise e Desenvolvimento de Sistemas, com foco em criar soluções que otimizam processos reais através de automação inteligente e desenvolvimento web moderno.
 
-Uelinton Quintão | Dev FullStack
-💻 Transformando ideias em sistemas eficientes.
-📊 Especialista em Automação e Dados.
-🎓 Estudante de ADS.
-🚀 Acesse meus links abaixo:
-[Seu Link Aqui]
-
 ### 🛠️ Minha Stack Principal
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
