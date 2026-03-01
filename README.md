@@ -16,7 +16,7 @@ Apaixonado por tecnologia e resolução de problemas. Atualmente curso Análise 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### 📬 Vamos nos conectar?
-- [🌐 Portfólio Pessoal](Em Breve)(Link_Do_Canvas_Ou_Site) 
+- [🌐 Portfólio Pessoal](Link_Do_Canvas_Ou_Site) 
 - [🐙 GitHub](https://github.com/SEU_USUARIO_AQUI)
 - [📸 Instagram](https://instagram.com/SEU_INSTA_AQUI)
 - [💼 LinkedIn](https://linkedin.com/in/SEU_LINKEDIN_AQUI)
